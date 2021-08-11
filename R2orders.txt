@@ -1,0 +1,8 @@
+
+L4  123 1 Murg_kabab 1 370
+
+L4  123 2 munchurian 1 momos 2 520
+L4  123 2 Raj_kachori 1 Naan 5 310
+L13  45 1 rosemary_chicken 1 300
+L13  45 2 Malai_Kofta 4 Aloo_Tikki_Chaat 2 1640
+L10  40 1 Tikkas 1 270

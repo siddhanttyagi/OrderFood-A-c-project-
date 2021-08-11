@@ -1,0 +1,5 @@
+
+L4  123 2 appam 1 idli_sambhar 1 300
+L13  45 1 masala_dosa 1 180
+L13  45 1 vada_sambhar 2 300
+L13  45 1 utpam 4 720

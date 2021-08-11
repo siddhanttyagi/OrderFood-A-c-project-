@@ -1,0 +1,57 @@
+C1
+1 Dal_Makhani 340 25
+2 Raj_kachori 160 15
+3 Dum_Aloo 340 25
+4 Malai_Kofta 350 25
+5 Aloo_Tikki_Chaat 120 15
+6 Naan 30 5
+C2
+1 Haleem 210 30
+2 Tikkas 270 25
+3 Mughlai_Paratha 50 10
+4 Qeema_Matar 250 20
+5 Murg_kabab 370 25
+6 Murg_Musallam 380 25
+C3
+1 chilly_potato 180 20
+2 munchurian 200 20
+3 chowmien 140 20
+4 momos 160 15
+5 Fried_Rice 180 20
+6 Spring_Roll 170 20
+C4
+1 chicken_cheese_salad 200 10
+2 baked_potato 220 20
+3 paneer_steak 260 15
+4 apple_sausage 220 15
+5 batter_fried_fish 370 20
+6 rosemary_chicken 300 20
+C5
+1 idli_sambhar 150 20
+2 vada_sambhar 150 20
+3 masala_dosa 180 25
+4 upma 170 20
+5 appam  150 20
+6 utpam 180 25
+C6
+1 biryani 280 20
+2 Dum_phukt 250 20
+3 lukhmi 180 15
+4 paaya 220 25
+5 gosht_pasinde 330 25
+6 keema_samosa 180 15
+C7
+1 tom_yum_goong 380 35
+2 som_tum 350 30
+3 tom_kha_hai 350 30
+4 pad_thai 320 30
+5 khao_pad 300 25
+6 gaeng_daeng 280 20
+C8
+1 carbonara 320 30
+2 lasagne 300 20
+3 linguini 350 25
+4 pansotti_alla_genovese 380 35
+5 ciceri_e_tria 280 30
+6 fettuccine_alfredo 300 20
+C9

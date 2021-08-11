@@ -1,0 +1,9 @@
+Aditya Sharma 1 5678 patel_nagar L3
+Anika Tayal 2 1245 lakshmi_nagar L0
+Naina Gupta 45 90 mukand_nagar L13
+Shivam Gupta 12 1222 vaibhav_khand L8
+Aman Ahuja 123 123 vishvas_nagar L4
+Manasvi Jain 20 40 vaibhav_khand L8
+Sankalp Chelani 40 20 arya_nagar L10
+siddhant tyagi 11 234 delhi L0
+sid tyagi 1 23 lakshmi_nagar L0

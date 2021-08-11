@@ -1,0 +1,7 @@
+
+L4  123 1 gosht_pasinde 2 660
+L4  123 1 Qeema_Matar 1 250
+L4  123 2 pad_thai 2 pad_thai 1 960
+L4  123 1 pansotti_alla_genovese 2 760
+L4  123 1 paaya 1 220
+L4  123 1 paaya 1 220
